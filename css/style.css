@@ -181,8 +181,8 @@ a:focus, a:hover {
   margin-left: 5px;
 }
 .btn.btn-color {
-  background-color: #FF0000;
-  border-color: #FF0000;
+  background-color: #F0C350;
+  border-color: #F0C350;
   color: #fff;
   border-radius: 0;
 }
@@ -1090,7 +1090,7 @@ section .container {
 }
 
 .highlight {
-  color: #FF0000;
+  color: #F0C350;
 }
 
 .f-bold {
